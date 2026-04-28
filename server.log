@@ -1,0 +1,78 @@
+
+> chirpy@1.0.0 dev
+> concurrently "npx tsc --watch" "nodemon dist/index.js"
+
+[1] [33m[nodemon] 3.1.14[39m
+[1] [33m[nodemon] to restart at any time, enter `rs`[39m
+[1] [33m[nodemon] watching path(s): *.*[39m
+[1] [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[1] [32m[nodemon] clean exit - waiting for changes before restart[39m
+[0] [2J[3J[H2:10:17 PM - Starting compilation in watch mode...
+[0] 
+[0] 
+[0] 2:10:17 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:11:25 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:11:25 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[1] [NON-OK] GET /non-existent-path - Status: 404
+[1] [NON-OK] GET /non-existent-path - Status: 404
+[0] [2J[3J[H2:13:01 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:13:01 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:33:37 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:33:37 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:36:23 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:36:23 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:37:30 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:37:30 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:37:38 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:37:39 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:39:04 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:39:04 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day
+[0] [2J[3J[H2:40:00 PM - File change detected. Starting incremental compilation...
+[0] 
+[0] 
+[0] 2:40:00 PM - Found 0 errors. Watching for file changes.
+[1] [32m[nodemon] restarting due to changes...[39m
+[1] [32m[nodemon] starting `node dist/index.js`[39m
+[1] server running brother have a nice day

@@ -16,11 +16,14 @@
     "@types/express": "^5.0.6",
     "@types/node": "^25.3.3",
     "concurrently": "^9.2.1",
+    "drizzle-kit": "^0.31.10",
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "drizzle-orm": "^0.45.2",
+    "express": "^5.2.1",
+    "postgres": "^3.4.9"
   }
 }
